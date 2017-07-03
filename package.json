@@ -1,0 +1,8 @@
+{
+  "name": "myjsstack",
+  "version": "0.0.1",
+  "description": "My JS stack starting point",
+  "main": "index.js",
+  "author": "Fabio M. Albertin <fabio@albertin.co.uk> (http://ifab.io/)",
+  "license": "MIT"
+}
