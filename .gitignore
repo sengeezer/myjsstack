@@ -54,4 +54,4 @@ jspm_packages
 lib
 
 # dist
-/dist/client-bundle.js*
+/dist/
