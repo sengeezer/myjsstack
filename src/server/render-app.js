@@ -1,9 +1,10 @@
 // @flow
-
+// flow-disable-next-line
+import { html } from 'common-tags';
 import { STATIC_PATH } from '../shared/config';
 
 const renderApp = (title: string) =>
-  `<!doctype html>
+  html`<!doctype html>
 <html>
   <head>
     <title>${title}</title>
