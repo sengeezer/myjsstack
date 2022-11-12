@@ -1,4 +1,4 @@
-# My JS Stack
+# [ARCHIVED] My JS Stack
 
 ## Notes
 
